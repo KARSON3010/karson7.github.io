@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>精选照片 on karson</title>
+    <link>https://gohugo-theme-ananke.pages.dev/post/</link>
+    <description>Recent content in 精选照片 on karson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冬半年记录</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>夏半年记录</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
